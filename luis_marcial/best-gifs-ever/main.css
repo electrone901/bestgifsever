@@ -1,0 +1,12 @@
+body{
+	/*background-image: url("http://www.freedigitalphotos.net/images/img/homepage/87357.jpg");*/
+
+	background-image: url("p.png");
+
+	/*background-color: pink;*/
+	min-height: 100%;
+	position: relative;
+}
+#bodyDiv{
+	text-align: center;
+}
